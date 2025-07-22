@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 78fcf00e562065348a0aa63018620d66
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {fileID: 6595239478000076012, guid: 586a367c0fb010340b0e7fc6cbae4ce8, type: 3}
+  - floorPrefab: {fileID: 568421616679345833, guid: 1637d8a0b0c890f4fbcdb5f56cc1d14c, type: 3}
+  - coinPrefab: {fileID: 8460913041571677236, guid: f396c7511a3f2d340b81dfa2ee980bcf, type: 3}
+  - bunnyPrefab: {fileID: 2346189427564513659, guid: 8a1c912b57d7681419580e7f0b637723, type: 3}
+  - hyenaPrefab: {fileID: 6990666239975234746, guid: e0d508b53407b9b4fb4e2c302e4aa02c, type: 3}
+  - bunnyController: {instanceID: 0}
+  - playerInventory: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
